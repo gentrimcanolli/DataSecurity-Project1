@@ -1,0 +1,48 @@
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe.config
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csprojAssemblyReference.cache
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Forma.resources
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Properties.Resources.resources
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.GenerateResource.cache
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.EncryptDialog.resources
+C:\Users\Fisnik\source\repos\SiguriaTeDhenave2021\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Analizo.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\bin\Debug\Detyra - FrequencyAnalysis.exe.config
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\bin\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\bin\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra - FrequencyAnalysis.csprojAssemblyReference.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra___FrequencyAnalysis.EncryptDialog.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra___FrequencyAnalysis.Analizo.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra___FrequencyAnalysis.Forma.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra___FrequencyAnalysis.Properties.Resources.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra - FrequencyAnalysis.csproj.GenerateResource.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra - FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\obj\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe.config
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csprojAssemblyReference.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.EncryptDialog.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Analizo.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Forma.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Properties.Resources.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.GenerateResource.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe.config
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\bin\Debug\Detyra - FrequencyAnalysis.pdb
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csprojAssemblyReference.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.EncryptDialog.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Analizo.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Forma.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra___FrequencyAnalysis.Properties.Resources.resources
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.GenerateResource.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.exe
+C:\Users\Fisnik\Desktop\Caesar Cipher Frequency Analysis\Caesar Cipher Frequency Analysis - Desktop App\Detyra - FrequencyAnalysis\obj\Debug\Detyra - FrequencyAnalysis.pdb
